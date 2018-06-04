@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace LogolsBootCamp3
+namespace Ex1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            console.WritLine("something something something");
-        
+            Console.WriteLine("Hello World test!");
+        }
     }
 }
