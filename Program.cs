@@ -7,6 +7,6 @@ namespace LogolsBootCamp3
         static void Main(string[] args)
         {
             console.WritLine("something something something");
-        
+        }
     }
 }
